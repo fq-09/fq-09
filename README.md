@@ -2,11 +2,11 @@
 
   # Freddy Quea | Full-Stack Developer
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&width=500&lines=Solution+Architect;Full-Stack+Developer;Tech+Innovator;Open+Source+Contributor)](https://github.com/fquea15)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&width=500&lines=Solution+Architect;Full-Stack+Developer;Tech+Innovator;Open+Source+Contributor)](https://github.com/fq-09)
 
   <p>
     <a href="https://www.linkedin.com/in/freddy-quea/"><img src="https://img.shields.io/badge/LinkedIn-61AFEF?style=for-the-badge&logo=linkedin&logoColor=282C34" alt="LinkedIn"/></a>
-    <a href="https://github.com/fquea15"><img src="https://img.shields.io/badge/GitHub-C678DD?style=for-the-badge&logo=github&logoColor=282C34" alt="GitHub"/></a>
+    <a href="https://github.com/fq-09"><img src="https://img.shields.io/badge/GitHub-C678DD?style=for-the-badge&logo=github&logoColor=282C34" alt="GitHub"/></a>
     <a href="https://www.instagram.com/coders.qj/"><img src="https://img.shields.io/badge/Instagram-E06C75?style=for-the-badge&logo=instagram&logoColor=282C34" alt="Instagram"/></a>
     <a href="mailto:ruben.quea@tecsup.edu.pe"><img src="https://img.shields.io/badge/Email-98C379?style=for-the-badge&logo=gmail&logoColor=282C34" alt="Email"/></a>
   </p>
@@ -36,7 +36,7 @@ const freddy = {
 - ⚡ Fun fact: I build custom mechanical keyboards in my spare time
 
 <div align="center">
-  <a href="https://github.com/fquea15?tab=repositories"><img src="https://img.shields.io/badge/View_My_Work-61AFEF?style=for-the-badge&logoColor=282C34" alt="View My Work"/></a>
+  <a href="https://github.com/fq-09?tab=repositories"><img src="https://img.shields.io/badge/View_My_Work-61AFEF?style=for-the-badge&logoColor=282C34" alt="View My Work"/></a>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=61AFEF&height=3&section=header" width="100%">
@@ -106,16 +106,16 @@ const freddy = {
 ## <img src="https://media.giphy.com/media/uhWLu2lsU0rfLiwYlI/giphy.gif" width="35px"> Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fquea15&show_icons=true&theme=onedark&hide_border=true&bg_color=282C34" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fquea15&theme=onedark&hide_border=true&background=282C34&stroke=61AFEF" height="165" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fq-09&show_icons=true&theme=onedark&hide_border=true&bg_color=282C34" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fq-09&theme=onedark&hide_border=true&background=282C34&stroke=61AFEF" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fquea15&layout=compact&theme=onedark&hide_border=true&bg_color=282C34" height="160" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fq-09&layout=compact&theme=onedark&hide_border=true&bg_color=282C34" height="160" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fquea15&theme=onedark&no-frame=true&column=7&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=fq-09&theme=onedark&no-frame=true&column=7&margin-w=10" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=61AFEF&height=3&section=header" width="100%">
@@ -138,7 +138,7 @@ const freddy = {
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=fquea15&style=for-the-badge&color=61AFEF&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=fq-09&style=for-the-badge&color=61AFEF&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=61AFEF&height=120&section=footer" width="100%">
